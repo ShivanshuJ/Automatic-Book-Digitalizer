@@ -1,5 +1,5 @@
-# Automatic-Book-Digitalizer
-The Automatic Book Digitalizer is a cost-effective, automated system designed to rapidly scan and digitize physical books with minimal human intervention. Developed as part of the TA212: Manufacturing Processes II course at IIT Kanpur, this project addresses the need for efficient preservation of ancient scriptures, fragile documents, and mandatory digital health records.
+# Automatic-Book-Digitaliser
+The Automatic Book Digitaliser is a cost-effective, automated system designed to rapidly scan and digitize physical books with minimal human intervention. Developed as part of the TA212: Manufacturing Processes II course at IIT Kanpur, this project addresses the need for efficient preservation of ancient scriptures, fragile documents, and mandatory digital health records.
 
 # Key Features
 - **Dual-Arm Mechanism:** Employs a Page Lifter arm using reusable adhesive to separate pages and a Page Turning arm to flip them gently.
